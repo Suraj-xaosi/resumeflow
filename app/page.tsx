@@ -14,7 +14,7 @@ export default async function Home() {
     <main className="min-h-screen">
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center py-20 px-4 text-center">
-        <h1 className="text-4xl font-bold mb-4">Hi, I&apos;m John Doe</h1>
+        <h1 className="text-4xl font-bold mb-4">Hi, I&apos;m suraj kumar</h1>
         <p className="text-muted-foreground text-lg max-w-md mb-6">
           A full-stack developer passionate about building great web
           experiences.
@@ -36,7 +36,7 @@ export default async function Home() {
       <section className="py-16 px-4 max-w-3xl mx-auto">
         <h2 className="text-2xl font-bold mb-4">About Me</h2>
         <p className="text-muted-foreground">
-          I specialize in React, Next.js, and TypeScript. With years of
+          I specialize in React, Next.js, and TypeScript. With 
           experience building scalable applications, I love turning ideas into
           reality.
         </p>
